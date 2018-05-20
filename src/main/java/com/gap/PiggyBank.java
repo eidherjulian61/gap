@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class PiggyBank {
 
-	Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+	private Map<Integer, Integer> map = new HashMap<Integer, Integer>();
 
 	public PiggyBank() {
 		map.put(50, 0);
