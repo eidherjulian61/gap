@@ -6,7 +6,7 @@ to determine if a sentence is a palindrome or not. On the left side list all the
 Java Functions</td><td>	Step - by - step or algorithm</td></tr><tr><td>
 String. replaceAll</br>
 StringBuilder.reverse</br>
-String.equalsIgnoreCase	</td><td>1.	Remove all tespecial characters</br>
+String.equalsIgnoreCase	</td><td>1.	Remove all the especial characters</br>
 2.	Create its reversed string</br>
 3.	Compare the string with its reversed string, ignoring case considerations.
 </td></tr>
